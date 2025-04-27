@@ -1,8 +1,8 @@
-192.168.178.9
-#192.168.178.14
-192.168.178.30
-192.168.178.31
-192.168.178.32
+192.168.178.9 apache_package=apache2 php_package=libapache2-mod-php
+192.168.178.14 apache_package=apache2 php_package=libapache2-mod-phpp
+192.168.178.30 apache_package=apache2 php_package=libapache2-mod-php
+192.168.178.31 apache_package=apache2 php_package=libapache2-mod-php
+192.168.178.32 apache_package=apache2 php_package=libapache2-mod-php
 # 192.168.178.4
 # localhost
 
