@@ -2,6 +2,8 @@
 #Uitleg via https://www.youtube.com/watch?v=FFaMqxpphjo&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70&index=3
 #learnlinux.tv
 
+git status gst, git add all, gaa git commit message, gcmsg git push, gp .
+
 #$ echo "# repository" >> README.md
 #$ git init
 #$ git add README.md
